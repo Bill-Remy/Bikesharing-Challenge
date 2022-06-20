@@ -25,7 +25,7 @@ The total number of rides for August was 2.3M.  Most of the rides, 65% or 1.5M, 
   
 <img src="Bike_utilization.png">  
 
-There were two blocks of high usage hours, rush hours, in August.  The first was in the morning from 7-10am, and the second was in the afternoon from 4-8pm.  These two blocks of usage time accounted for 50% of the rides in August.  Another obsrvation from this visual is that between 2-6am is a window to perform maintenance and reposition bikes as needed.  Repositioning may be needed if the inventory is shifted due to trip starts and ending locations shown in a later visual.
+There were two blocks of high usage hours, rush hours, in August.  The first was in the morning from 7-10am, and the second was in the afternoon from 4-8pm.  These two blocks of usage time accounted for 50% of the rides in August.  Another observation from this visual is that between 2-6am is a window to perform maintenance and reposition bikes as needed.  Repositioning may be needed if the inventory is shifted due to trip start and ending locations shown in a later visual.
 
 <img src="Starttime_by_Dayhour.png">
 
@@ -33,7 +33,7 @@ The above visual presents the start time of trips by day of week and hour of the
 
 <img src="Gender_stoptime_dayhour.png">    
 
-The visual above represents usage by day of week and hour of the day for Men, Women and "Unknown" genders.  We can see again that Men are the drivers in usage and their usage patterns are representative of the larger usage distribution.  The usage by Women is consitent with the overall pattern also but with less volume.  The "Unkown" gender usage which is comprise if customer type "Customer" is more uniform throughout the week and then increases on Saturday.
+The visual above represents usage by day of week and hour of the day for Men, Women and "Unknown" genders.  We can see again that Men are the drivers in usage and their usage patterns are representative of the larger usage distribution.  The usage by Women is consistent with the overall pattern also but with less volume.  The "Unkown" gender usage which is comprised of customer type "Customer" is more uniform throughout the week and then increases on Saturday.
 
 <img src="dayuse_gender_day.png">
 
@@ -41,11 +41,11 @@ The image of Customer Type daily usage by gender is represented above.  This gra
 
 <img src="startstop_loctions.png">
           
-The two visuals above show the concentratin or trip origins and terminations.  Most of the bike usage is located in the Manhattan.            
+The two visuals above show the concentration of trip origins and terminations.  Most of the bike usage is located Manhattan.            
 
 ## Summary
 
-It is clear from the data that "Subscribers" account of the volume in August and most of the riders are "Male".  The average trip duration is around ten minutes and very few are longer than forty minutes.  The trip duration time is heavily skewed to shorter trips.  There are two rush hour periods from Monday to Friday between 7-10am and 4-8pm.  Usage on the weekend is lighter and more uniform than during the week. Supporting analysis shows that the usage data is driven by "Male" riders.  When reviewing the starting and stopping locations in Tableau, there are a relatively few number of locations that have significant volume. 
+It is clear from the data that "Subscribers" account for most of the volume in August and most riders are "Male".  The average trip duration is around ten minutes and very few are longer than forty minutes.  The trip duration time is heavily skewed to shorter trips.  There are two rush hour periods from Monday to Friday between 7-10am and 4-8pm.  Usage on the weekend is lighter and more uniform than during the week. Supporting analysis shows that the usage data is driven by "Male" riders.  When reviewing the starting and stopping locations in Tableau, there are a relatively few number of locations that have significant volume. 
 
 Additional analysis to support a launch plan for Des Moines would be:
 - Exmaine the same data for a low volume month such as January or February
