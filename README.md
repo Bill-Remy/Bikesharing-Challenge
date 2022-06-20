@@ -18,6 +18,6 @@ The summary results of the August data can be seen in the figure below.
 
 The total number of rides for August was 2.3M.  Most of the rides, 65% or 1.5M, were taken by Men.  Over 85% of the rides were taken by "Subscriber" customer type.  Most of the "Unknown" gender were of customer type "Customer".  The intial conclusions from these visuals are that Men represent the vast majority of the riders in August and they are regular subscribers to the Citi Bike service.
 
-<ims src="trip_durations">
+<img src="trip_durations">
   
   
