@@ -29,7 +29,7 @@ There were two blocks of high usage hours, rush hours, in August.  The first was
 
 <img src="Starttime_by_Dayhour.png">
 
-The above visual presents the start time of trips by day of week and hour of the day.
+The above visual presents the start time of trips by day of week and hour of the day.  This graphic reinforces the prior visual showing the high usage or rush hours during the day.  The rush hours only occur during the working week of Monday to Friday.  Weekend days, Saturday and Sunday, the usage is spread more evenly through the day starting in late morning until late afternoon.  We can also see that Wednesday usage is lighter than other week days whereas Thursday afternoon rush hour is the heaviest usage.
 
 
 
