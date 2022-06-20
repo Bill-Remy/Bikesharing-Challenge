@@ -25,7 +25,7 @@ The total number of rides for August was 2.3M.  Most of the rides, 65% or 1.5M, 
   
 <img src="Bike_utilization.png">  
 
-There were two blocks of high usage hours, rush hours, in August.  The first was in the morning from 7-10am, and the second was in the afternoon from 4-8pm.  These two blocks of usage time accounted for 50% of the rides in August.  
+There were two blocks of high usage hours, rush hours, in August.  The first was in the morning from 7-10am, and the second was in the afternoon from 4-8pm.  These two blocks of usage time accounted for 50% of the rides in August.  Another obsrvation from this visual is that between 2-6am is a window to perform maintenance and reposition bikes as needed.  Repositioning may be needed if the inventory is shifted due to trip starts and ending locations shown in a later visual.
 
 <img src="Starttime_by_Dayhour.png">
 
@@ -39,7 +39,9 @@ The visual above represents usage by day of week and hour of the day for Men, Wo
 
 The image of Customer Type daily usage by gender is represented above.  This graphic just reinforces the prior analysis.  Subscriber men are the drivers of usage through out the week. While female users follow a similar pattern with lower volume.  
 
-
+<img src="startstop_loctions.png">
+          
+The two visuals above show the concentratin or trip origins and terminations.  Most of the bike usage is located in the Manhattan.            
 
 
 
