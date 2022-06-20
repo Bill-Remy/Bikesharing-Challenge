@@ -43,6 +43,15 @@ The image of Customer Type daily usage by gender is represented above.  This gra
           
 The two visuals above show the concentratin or trip origins and terminations.  Most of the bike usage is located in the Manhattan.            
 
+## Summary
+
+It is clear from the data that "Subscribers" account of the volume in August and most of the riders are "Male".  The average trip duration is around ten minutes and very few are longer than forty minutes.  The trip duration time is heavily skewed to shorter trips.  There are two rush hour periods from Monday to Friday between 7-10am and 4-8pm.  Usage on the weekend is lighter and more uniform than during the week. Supporting analysis shows that the usage data is driven by "Male" riders.  When reviewing the starting and stopping locations in Tableau, there are a relatively few number of locations that have significant volume. 
+
+Additional analysis to support a launch plan for Des Moines would be:
+- Exmaine the same data for a low volume month such as January or February
+- Review bike inventory in detail to see if there are bikes that don't get used
+- Deeper look at location usage data to determine if there are potential shortages in areas thus losing revenue from rides
+
 
 
 
