@@ -23,7 +23,7 @@ The total number of rides for August was 2.3M.  Most of the rides, 65% or 1.5M, 
  The next part of the analysis was to exmaine duration of trips overall and by gender.  The visuals above, show both sets of data.  The trip duration overall shows that most of the trips are less than forty minutes in length.  The most frequent durations are all less than twenty minutes and centered about ten minutes in length.
   The trip durations by gender are similar in behavior to the totals for men and women.  On average men have some longer trips than women.  The "Unknown" gender which are mostly "Customer" type users, have more uniform trip times between approximately  five and thirty minutes.
   
-<img src="Bike_utilizaton.png">
+<img src="Bike_utilization.png">
 
 
 
