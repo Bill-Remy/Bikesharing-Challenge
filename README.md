@@ -31,4 +31,6 @@ The total number of rides for August was 2.3M.  Most of the rides, 65% or 1.5M, 
 All of the visuals as part of a Tableau Story can be seen at the following links:
 
 [This a link to Summary Story](https://public.tableau.com/app/profile/bill.remy/viz/Mod14Challenge_16557427414530/CitiBikeOverview?publish=yes)
-[This is a link to the Usage Story)(https://public.tableau.com/app/profile/bill.remy/viz/Mod14Challenge_16557427414530/CitiBikeUsage?publish=yes)
+
+
+[This is a link to the Usage Story](https://public.tableau.com/app/profile/bill.remy/viz/Mod14Challenge_16557427414530/CitiBikeUsage?publish=yes)
