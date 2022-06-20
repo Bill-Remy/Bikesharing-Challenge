@@ -13,4 +13,6 @@ Specifically the analysis will look at:
 
 ## Results of Analysis
 The summary results of the August data can be seen in the figure below.
-<img src='
+<img src='summary_statistics.png'>
+
+
