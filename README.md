@@ -31,9 +31,13 @@ There were two blocks of high usage hours, rush hours, in August.  The first was
 
 The above visual presents the start time of trips by day of week and hour of the day.  This graphic reinforces the prior visual showing the high usage or rush hours during the day.  The rush hours only occur during the working week of Monday to Friday.  Weekend days, Saturday and Sunday, the usage is spread more evenly through the day starting in late morning until late afternoon.  We can also see that Wednesday usage is lighter than other week days whereas Thursday afternoon rush hour is the heaviest usage.
 
-<img src="Gender_stoptime_dayhour.png">     <img src="dayuse_gender_day.png">
+<img src="Gender_stoptime_dayhour.png">    
 
+The visual above represents usage by day of week and hour of the day for Men, Women and "Unknown" genders.  We can see again that Men are the drivers in usage and their usage patterns are representative of the larger usage distribution.  The usage by Women is consitent with the overall pattern also but with less volume.  The "Unkown" gender usage which is comprise if customer type "Customer" is more uniform throughout the week and then increases on Saturday.
 
+<img src="dayuse_gender_day.png">
+
+The image of Customer Type daily usage by gender is represented above.  This graphic just reinforces the prior analysis.  Subscriber men are the drivers of usage through out the week. While female users follow a similar pattern with lower volume.  
 
 
 
